@@ -1,4 +1,4 @@
-# Student Dropout Prediction
+# Student Dropout Prediction Using Machine Learning
 
 A collaborative machine-learning project exploring whether student demographic, attendance, support, and academic-performance features can predict a binary dropout outcome. The notebook includes exploratory data analysis, categorical encoding, feature engineering, class-imbalance handling with SMOTE, and comparison of Logistic Regression, Decision Tree, KNN, Naive Bayes, SVM, Random Forest, Gradient Boosting, and XGBoost.
 
