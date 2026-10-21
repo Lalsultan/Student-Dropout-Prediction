@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kaggle.json
+
+# Generated outputs and local data
+outputs/
+models/
+data/raw/
+data/processed/
+*.h5
+*.keras
+*.joblib
+*.pkl
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+data/*
+!data/README.md
